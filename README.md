@@ -1,30 +1,10 @@
 # Installation and setup
 
-## How to setup and run frontend
+## How to setup and run the application
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/lijovijayan/demo-app-web.git
-   ```
-2. Install packages
-   ```sh
-   yarn install
-   ```
-3. Start the development server
-   ```sh
-   yarn start
-   ```
-4. Production build
-   ```sh
-   yarn run build
-   ```
----
-
-## How to setup and run backend
-
-1. Clone the repository
-   ```sh
-   git clone https://github.com/lijovijayan/demo-app-core.git
+   git clone https://github.com/lijovijayan/basic-node-app.git
    ```
 2. Install and setup Mongo DB
    ```sh
@@ -52,17 +32,6 @@
 ## Built With
 
 Major frameworks and libraries used to bootstrap the project.
-
-
-### Frontend
-
-* [React.js](https://reactjs.org/)
-* [Tailwind CSS](tailwindcss.com/)
-* [Charts.Js](https://www.npmjs.com/package/react-chartjs-2/)
-* [Ant Design](https://ant.design/)
-* [React Icons](https://react-icons.github.io/react-icons/)
-
-### Backend
 
 * [Node.js](https://nodejs.org/)
 * [Express](https://expressjs.com/)
